@@ -1,4 +1,4 @@
-# 44-563 W08 client side requests
+# 44-563 W08-client side requests
 
 Exploring ways to access new content from the client
 
